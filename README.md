@@ -1,16 +1,29 @@
-# neyesem
+# NeYesem
 
-A new Flutter project.
+NeYesem, bir Flutter projesidir ve uygulama geliştirmeye başlamak için mükemmel bir başlangıç noktasıdır.
 
-## Getting Started
+## Başlarken
 
-This project is a starting point for a Flutter application.
+Bu proje, Flutter uygulamaları oluşturmak için bir başlangıç noktası sağlar. Flutter'ı kurduktan sonra, bu projeyi kullanarak hızlı bir şekilde uygulama geliştirmeye başlayabilirsiniz.
 
-A few resources to get you started if this is your first Flutter project:
+### Gereksinimler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (en son sürüm)
+- [Dart SDK](https://dart.dev/get-dart) (Flutter ile birlikte gelir)
+- Bir IDE veya metin düzenleyici (Visual Studio Code, Android Studio, vb.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Başlangıç
+
+Projeyi bilgisayarınıza klonlamak için:
+
+```bash
+git clone <repository-url>
+cd neyesem
+
+Gerekli paketleri yüklemek için:
+
+flutter pub get
+
+Uygulamayı çalıştırmak için:
+
+flutter run
